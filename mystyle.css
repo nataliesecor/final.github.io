@@ -68,7 +68,7 @@ header .flex{
 }
 
 header .logo{
-    background-image: url("../Desktop/Images/logo.png");
+    background-image: url("logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 300px;
@@ -115,7 +115,7 @@ header .fa-bars{
 }
 
 .home-container{
-    background:url(../Desktop/Images/home.jpg) no-repeat;
+    background:url(home.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -159,7 +159,7 @@ header .fa-bars{
 }
 
 .square {
-  background: url(../Desktop/Images/about.jpg) no-repeat;
+  background: url(about.jpg) no-repeat;
   width: 300px;
   height: 300px;
 }
